@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+header {
+    
+    background-color: rgb(231, 224, 224);
+    float: right;
+  width: 100vw;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 3%;
+    
+}
+nav{
+    display: flex;
+  float: right;
+  width: 30%;
+ margin-top: 2%;
+font-size: 1.1vw;
+}
+
+
+  header nav  a{
+    float: right;  
+    display: inline-block;
+    color: black;
+    transition: all 0.5s;
+    font:  sans-serif;
+    padding: 3%;
+    color: black;
+    text-decoration: none;
+    text-transform: uppercase;
+    flex-direction: row-reverse;   
+}
+
+#freeze{
+    float: left;
+    margin-top: 30px;
+    margin-left:20px ;
+    
+}
+
+#tripple{
+    width: 50vw;
+    width: 100%;
+    background-color: snow;
+}
+
+
+
+.container2{
+padding: 2vw;
+background-color: rgb(231, 224, 224);
+color: rgb(202, 79, 126);
+display: flex;
+height: 30vw;
+
+}
+
+#pic{
+    height: 100px;
+}
+#text{
+    width: 100%;
+    font-size: 2vw;
+}
+
+h2{
+  font-family:   "Arial Black", Gadget, sans-serif;	
+}
+p {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    color: grey;
+    
+}
+
+
+.container1{
+background-color: greenyellow;
+/* width: 100vw; */
+padding: 3vw;
+text-align: center;
+letter-spacing: 5vw;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(238, 87, 150);
+    padding: 2vw;
+    font-size: 20px;    
+}
+
+footer img{
+    margin: 2vw;
+}
