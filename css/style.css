@@ -1,10 +1,8 @@
 *{
     margin: 0;
     padding: 0;
+    
 }
-
-
-
 header {
     
     background-color: rgb(231, 224, 224);
@@ -61,8 +59,8 @@ height: 30vw;
 
 }
 
-#pic{
-    height: 100px;
+#yoga{
+    height: 20vw;
 }
 #text{
     width: 100%;
@@ -74,7 +72,7 @@ h2{
 }
 p {
     font-family: "Times New Roman", Times, serif;
-    font-size: 20px;
+    font-size: 100%;
     color: grey;
     
 }
@@ -88,12 +86,12 @@ text-align: center;
 letter-spacing: 5vw;
 }
 
-footer {
+ footer {
     text-align: center;
     background-color: rgb(238, 87, 150);
-    padding: 2vw;
+    padding: 15vw;
     font-size: 20px;    
-}
+} 
 
 footer img{
     margin: 2vw;
